@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "patrickzocli2021@gmail.com",
+                "Name": "Patrick Zocli"
+            }
+        ],
+        "Category": "",
+        "Description": "",
+        "Icon": "",
+        "Id": "",
+        "Name": "Github Contribution Graph",
+        "Version": "1",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
